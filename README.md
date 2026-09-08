@@ -1,4 +1,4 @@
-Great Lakes Ice Concentration Analysis
+# Great Lakes Ice Concentration Analysis
 
 **Overview**:
 This project analyzes ice concentration data from the Great Lakes for the
